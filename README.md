@@ -33,8 +33,8 @@ This project was made for an an Udacity Nanodegree project. My aim was to compar
 ## File Description <a name="files"></a>
 
 **project.ipynb**: Python code containing my analysis. </br>
-**input/2018/survey_results_public.csv**: Stackoverflow's 2018 Annual Developer Survey data. </br>
-**input/2019/survey_results_public.csv**: Stackoverflow's 2019 Annual Developer Survey data. </br>
+**input/2018/survey_results_public.zip**: Zip containing Stackoverflow's 2018 Annual Developer Survey data. </br>
+**input/2019/survey_results_public.zip**: Zip containing Stackoverflow's 2019 Annual Developer Survey data. </br>
 
 ## Results <a name="results"></a>
 The results of my analysis can be found [here](https://medium.com/@marco.altamura88/what-are-the-countries-with-the-highest-percentage-of-employed-programmers-b65b29ed9be4)
