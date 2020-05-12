@@ -37,7 +37,7 @@ This project was made for an an Udacity Nanodegree project. My aim was to compar
 **input/2019/survey_results_public.csv**: Stackoverflow's 2019 Annual Developer Survey data. </br>
 
 ## Results <a name="results"></a>
-The results of my analysis can be found [here](https://medium.com/)
+The results of my analysis can be found [here](https://medium.com/@marco.altamura88/what-are-the-countries-with-the-highest-percentage-of-employed-programmers-b65b29ed9be4)
 
 ## Acknowledgements<a name="licensing"></a>
 This project makes use of the following external resources:
