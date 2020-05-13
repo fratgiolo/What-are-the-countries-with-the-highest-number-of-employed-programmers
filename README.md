@@ -5,8 +5,9 @@
 1. [Prerequisites and Installation](#Prerequisites)
 2. [Motivation](#motivation)
 3. [File Description](#files)
-4. [Results](#results)
-5. [Acknowledgments](#licensing)
+4. [Conclusion](#conclusion)
+5. [Detailed Results](#results)
+6. [Acknowledgments](#licensing)
 
 ## Prerequisites and Installation <a name="Prerequisites"></a>
 
@@ -36,8 +37,14 @@ This project was made for an an Udacity Nanodegree project. My aim was to compar
 **input/2018/survey_results_public.zip**: Zip containing Stackoverflow's 2018 Annual Developer Survey data. </br>
 **input/2019/survey_results_public.zip**: Zip containing Stackoverflow's 2019 Annual Developer Survey data. </br>
 
-## Results <a name="results"></a>
-The results of my analysis can be found [here](https://medium.com/@marco.altamura88/what-are-the-countries-with-the-highest-percentage-of-employed-programmers-b65b29ed9be4)
+## Conclusion <a name="conclusion"></a>
+In brief, the answers to the above question have been:
+* America and India are the easiest countries to find a job as a developer
+* Freelancer and part-time jobs are extremely unpopular in the IT sector and we are most likely to find a job as a full-time employee.
+* While older programming languages like JavaScript, HTML and CSS are still dominating the market, relatively younger ones ​​like Python have been steadily emerging.
+
+## Detailed Results <a name="results"></a>
+If you would like to read more details around how I've reached those conclusions, the results of my analysis are discussed [here](https://medium.com/@marco.altamura88/what-are-the-countries-with-the-highest-percentage-of-employed-programmers-b65b29ed9be4)
 
 ## Acknowledgements<a name="licensing"></a>
 This project makes use of the following external resources:
