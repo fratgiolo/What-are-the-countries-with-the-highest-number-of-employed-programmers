@@ -26,7 +26,7 @@ To move the downloaded files to the specific folder, you can execute. </br>
 
 ## Motivation <a name="motivation"></a>
 
-This project was made for an an Udacity Nanodegree project. My aim was to compare data in Stackoverflow's 2018 and 2019 surveys to find answers to the followin questions:</br>
+This project was made for an an Udacity Nanodegree project. My aim was to compare data in Stackoverflow's 2018 and 2019 surveys to find answers to the following questions:</br>
 1. What are the countries with the highest percentage of employed programmers? </br>
 2. What are the most common contracts offered? </br>
 3. What are the top programming languages used at work? </br>
