@@ -49,4 +49,4 @@ If you would like to read more details around how I've reached those conclusions
 ## Acknowledgements<a name="licensing"></a>
 This project makes use of the following external resources:
 
-Stackoverflow’s 2018 and 2019 Developer Surveys which can be found [here](https://insights.stackoverflow.com/survey).
+Stackoverflow’s 2018 and 2019 Developer Surveys which can be found [here](https://medium.com/@marco.altamura88/using-pyspark-to-predict-sparkifys-users-churn-rate-5e105d7fcdc0).
